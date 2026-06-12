@@ -114,6 +114,4 @@ Because this pipeline integrates both `diffusers` (PyTorch) and the original Ske
 * **Unified UI:** Consolidated disparate AI research repositories into a single, intuitive, memory-managed workflow.
 
 ---
-**Authors:**
-* Somesh Padiyar
-* Ushneesh Chattopadhyay
+
